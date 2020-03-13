@@ -14,7 +14,7 @@ public class prueba {
 	System.out.println("ingrese un numero  ");
 	
 	int num = input.nextInt();
-	
+	//Esta correcto el ejercicio!!
 	
   if ( num < 0 ){
 	  
