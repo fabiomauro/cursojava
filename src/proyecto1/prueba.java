@@ -14,12 +14,12 @@ public class prueba {
 	System.out.println("ingrese un numero  ");
 	
 	int num = input.nextInt();
-	//Esta correcto el ejercicio!!
+
 	
   if ( num < 0 ){
 	  
 	  System.out.println ( " el numero es menor a cero ");
-	  
+	   //comentario nuevo 
 	  
   } else {
 	  
