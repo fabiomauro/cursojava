@@ -9,7 +9,7 @@ public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
 		
 	System.out.println("ingrese un numero  ");
-	
+	System.out.println("ingrese  otro  numero  ");
 	
 	//  comentario 4 
 }
