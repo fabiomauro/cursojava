@@ -10,6 +10,12 @@ public static void main(String[] args) {
 		
 	
 	System.out.println("ingrese  otro  numero  ");
+	System.out.println("ingrese  otro  numero  ");
+	
+	System.out.println("ingrese  otro  numero  ");
+	
+	
+	
 	
 	//  comentario 4 
 }
