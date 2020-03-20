@@ -51,6 +51,8 @@ int osmolaridad = (int)osmo;
 		
 		System.out.println("");
 		System.out.println(" VALOR APROXIMADO SIN COMAS : "+osmolaridad);
+		System.out.println("");
+		
 		
 	}
 
